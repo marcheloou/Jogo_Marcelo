@@ -28,6 +28,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"SPLAYER","path":"sprites/SPLAYER/SPLAYER.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Teste","path":"sprites/Teste/Teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
